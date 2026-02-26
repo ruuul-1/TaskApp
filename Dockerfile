@@ -29,4 +29,4 @@ CMD ["nginx", "-g", "daemon off;"]
 
 
 
-# v01 - Prueba
+# v02 - Prueba
